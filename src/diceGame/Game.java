@@ -27,8 +27,6 @@ public class Game {
       }
       else 
     	  System.out.println("Sorry you lose");
-   
-      // write the rest of your code below
         
    }
 }
